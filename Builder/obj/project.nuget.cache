@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QE2yDZdDjAJKCHZu0eAxWGf6GRpyUbqSp3rhE+bghSfmhGU7fk8MaRPm7oBWqSGMiPfUjYb+c5pUxZyCtz31HA==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\LearningDemos\\LearningDemos\\Builder\\Builder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moataz.allam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

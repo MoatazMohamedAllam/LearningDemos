@@ -1,0 +1,14 @@
+D:\Work\LearningDemos\LearningDemos\Builder\bin\Release\netcoreapp3.1\Builder.exe
+D:\Work\LearningDemos\LearningDemos\Builder\bin\Release\netcoreapp3.1\Builder.deps.json
+D:\Work\LearningDemos\LearningDemos\Builder\bin\Release\netcoreapp3.1\Builder.runtimeconfig.json
+D:\Work\LearningDemos\LearningDemos\Builder\bin\Release\netcoreapp3.1\Builder.runtimeconfig.dev.json
+D:\Work\LearningDemos\LearningDemos\Builder\bin\Release\netcoreapp3.1\Builder.dll
+D:\Work\LearningDemos\LearningDemos\Builder\bin\Release\netcoreapp3.1\Builder.pdb
+D:\Work\LearningDemos\LearningDemos\Builder\obj\Release\netcoreapp3.1\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\LearningDemos\LearningDemos\Builder\obj\Release\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+D:\Work\LearningDemos\LearningDemos\Builder\obj\Release\netcoreapp3.1\Builder.AssemblyInfo.cs
+D:\Work\LearningDemos\LearningDemos\Builder\obj\Release\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+D:\Work\LearningDemos\LearningDemos\Builder\obj\Release\netcoreapp3.1\Builder.dll
+D:\Work\LearningDemos\LearningDemos\Builder\obj\Release\netcoreapp3.1\Builder.pdb
+D:\Work\LearningDemos\LearningDemos\Builder\obj\Release\netcoreapp3.1\Builder.genruntimeconfig.cache
+D:\Work\LearningDemos\LearningDemos\Builder\obj\Release\netcoreapp3.1\Builder.csproj.AssemblyReference.cache

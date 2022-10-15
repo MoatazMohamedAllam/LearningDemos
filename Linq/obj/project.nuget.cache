@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LOxB0Y7VebdcjxWtNTnNdNxXBvvagHUqrHMSj6WMEv/1jBY/NjOPrm/t5A3BwOdJj7UJ7QyphaPGq3Ip2pj14w==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\LearningDemos\\LearningDemos\\Linq\\Linq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moataz.allam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

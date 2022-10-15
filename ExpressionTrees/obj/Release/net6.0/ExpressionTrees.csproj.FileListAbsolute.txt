@@ -1,0 +1,5 @@
+D:\Work\LearningDemos\LearningDemos\ExpressionTrees\obj\Release\net6.0\ExpressionTrees.csproj.AssemblyReference.cache
+D:\Work\LearningDemos\LearningDemos\ExpressionTrees\obj\Release\net6.0\ExpressionTrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\LearningDemos\LearningDemos\ExpressionTrees\obj\Release\net6.0\ExpressionTrees.AssemblyInfoInputs.cache
+D:\Work\LearningDemos\LearningDemos\ExpressionTrees\obj\Release\net6.0\ExpressionTrees.AssemblyInfo.cs
+D:\Work\LearningDemos\LearningDemos\ExpressionTrees\obj\Release\net6.0\ExpressionTrees.csproj.CoreCompileInputs.cache

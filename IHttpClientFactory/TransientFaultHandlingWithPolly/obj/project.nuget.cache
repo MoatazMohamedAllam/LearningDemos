@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "a6vaVFiOniVNJeTfjxxZZ45DAgvQmKadZM9I4w4zjatraC8b87Omz4uYyRSTQUwccnYxJaQ4VARL+81pp6MUGQ==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\LearningDemos\\LearningDemos\\IHttpClientFactory\\TransientFaultHandlingWithPolly\\TransientFaultHandlingWithPolly.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moataz.allam\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\moataz.allam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\moataz.allam\\.nuget\\packages\\microsoft.extensions.http\\6.0.0\\microsoft.extensions.http.6.0.0.nupkg.sha512",
+    "C:\\Users\\moataz.allam\\.nuget\\packages\\microsoft.extensions.http.polly\\6.0.8\\microsoft.extensions.http.polly.6.0.8.nupkg.sha512",
+    "C:\\Users\\moataz.allam\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\moataz.allam\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\moataz.allam\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\moataz.allam\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\moataz.allam\\.nuget\\packages\\polly\\7.2.2\\polly.7.2.2.nupkg.sha512",
+    "C:\\Users\\moataz.allam\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
+    "C:\\Users\\moataz.allam\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\moataz.allam\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

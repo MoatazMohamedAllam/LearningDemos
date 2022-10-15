@@ -1,0 +1,15 @@
+D:\Work\test\ProblemsWithHttpClient\bin\Debug\net6.0\ProblemsWithHttpClient.exe
+D:\Work\test\ProblemsWithHttpClient\bin\Debug\net6.0\ProblemsWithHttpClient.deps.json
+D:\Work\test\ProblemsWithHttpClient\bin\Debug\net6.0\ProblemsWithHttpClient.runtimeconfig.json
+D:\Work\test\ProblemsWithHttpClient\bin\Debug\net6.0\ProblemsWithHttpClient.dll
+D:\Work\test\ProblemsWithHttpClient\bin\Debug\net6.0\ref\ProblemsWithHttpClient.dll
+D:\Work\test\ProblemsWithHttpClient\bin\Debug\net6.0\ProblemsWithHttpClient.pdb
+D:\Work\test\ProblemsWithHttpClient\obj\Debug\net6.0\ProblemsWithHttpClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\test\ProblemsWithHttpClient\obj\Debug\net6.0\ProblemsWithHttpClient.AssemblyInfoInputs.cache
+D:\Work\test\ProblemsWithHttpClient\obj\Debug\net6.0\ProblemsWithHttpClient.AssemblyInfo.cs
+D:\Work\test\ProblemsWithHttpClient\obj\Debug\net6.0\ProblemsWithHttpClient.csproj.CoreCompileInputs.cache
+D:\Work\test\ProblemsWithHttpClient\obj\Debug\net6.0\ProblemsWithHttpClient.dll
+D:\Work\test\ProblemsWithHttpClient\obj\Debug\net6.0\ref\ProblemsWithHttpClient.dll
+D:\Work\test\ProblemsWithHttpClient\obj\Debug\net6.0\ProblemsWithHttpClient.pdb
+D:\Work\test\ProblemsWithHttpClient\obj\Debug\net6.0\ProblemsWithHttpClient.genruntimeconfig.cache
+D:\Work\test\ProblemsWithHttpClient\obj\Debug\net6.0\ProblemsWithHttpClient.csproj.AssemblyReference.cache
