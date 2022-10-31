@@ -1,0 +1,11 @@
+D:\Work\LearningDemos\LearningDemos\Dapper_Demo\bin\Debug\Dapper_Demo.exe.config
+D:\Work\LearningDemos\LearningDemos\Dapper_Demo\bin\Debug\Dapper_Demo.exe
+D:\Work\LearningDemos\LearningDemos\Dapper_Demo\bin\Debug\Dapper_Demo.pdb
+D:\Work\LearningDemos\LearningDemos\Dapper_Demo\bin\Debug\Dapper.dll
+D:\Work\LearningDemos\LearningDemos\Dapper_Demo\bin\Debug\Dapper.xml
+D:\Work\LearningDemos\LearningDemos\Dapper_Demo\obj\Debug\Dapper_Demo.csproj.AssemblyReference.cache
+D:\Work\LearningDemos\LearningDemos\Dapper_Demo\obj\Debug\Dapper_Demo.csproj.SuggestedBindingRedirects.cache
+D:\Work\LearningDemos\LearningDemos\Dapper_Demo\obj\Debug\Dapper_Demo.csproj.CoreCompileInputs.cache
+D:\Work\LearningDemos\LearningDemos\Dapper_Demo\obj\Debug\Dapper_Demo.csproj.CopyComplete
+D:\Work\LearningDemos\LearningDemos\Dapper_Demo\obj\Debug\Dapper_Demo.exe
+D:\Work\LearningDemos\LearningDemos\Dapper_Demo\obj\Debug\Dapper_Demo.pdb
