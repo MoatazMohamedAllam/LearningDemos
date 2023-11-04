@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemsWithHttpClient", "I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransientFaultHandlingWithPolly", "IHttpClientFactory\TransientFaultHandlingWithPolly\TransientFaultHandlingWithPolly.csproj", "{CA96E993-3530-4052-9DF5-D9905AF4C420}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq imperative vs linq declarative", "linq imperative vs linq declarative\linq imperative vs linq declarative.csproj", "{1680A7EB-9FFB-45E7-84B5-7D546137170C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
