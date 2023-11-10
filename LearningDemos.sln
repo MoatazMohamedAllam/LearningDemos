@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransientFaultHandlingWithP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq imperative vs linq declarative", "linq imperative vs linq declarative\linq imperative vs linq declarative.csproj", "{1680A7EB-9FFB-45E7-84B5-7D546137170C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Offset vs Keyset Pagination", "Offset vs Keyset Pagination\Offset vs Keyset Pagination.csproj", "{572D68CC-A2E8-40F4-9EB0-700134449A58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
